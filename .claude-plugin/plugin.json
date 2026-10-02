@@ -1,0 +1,12 @@
+{
+  "name": "senso-radar",
+  "displayName": "Senso Radar",
+  "version": "1.0.0",
+  "description": "Senso is a restaurant analytics service: every day it checks the restaurant's POS data (iiko / Syrve as the read-only source) against the restaurant's own norms and shows findings with the receipts behind them. Skills for the morning review, finding breakdowns, period comparisons and control checks.",
+  "author": {
+    "name": "Nota Matis",
+    "url": "https://senso.rest"
+  },
+  "homepage": "https://senso.rest",
+  "license": "MIT"
+}
